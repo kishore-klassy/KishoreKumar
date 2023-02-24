@@ -3,7 +3,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<h1 align="center">Hi 👋, I'm Varun Mayilvaganan</h1>
+<h1 align="center">Hi 👋, I'm Kishore Kumar</h1>
 
 
 
@@ -14,7 +14,7 @@
 </h3>
 
 
-I'm an graduation persuing student , I'm currently in my second year. I really enjoy learning languages like C,Java & Python , as well as  doing projects in frontend development.You can checkout my linkedin : https://www.linkedin.com/in/varun-mayilvaganan-662781234/
+I'm an graduation persuing student , I'm currently in my second year. I really enjoy learning languages like C,Java & Python , as well as  doing projects in frontend development.You can checkout my linkedin :https://www.linkedin.com/in/kishore-kumar-31b34224a/
 
 ![](https://i.imgur.com/waxVImv.png)
 
